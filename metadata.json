@@ -1,0 +1,6 @@
+{
+  "name": "Karkon Legal",
+  "description": "Professional legal guidance and client consultation platform for Karkon Legal across immigration, employment, family, property, commercial, and corporate law.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
